@@ -1,0 +1,2 @@
+# primeraConexionGlassFish
+conexion automatica GlassFish
